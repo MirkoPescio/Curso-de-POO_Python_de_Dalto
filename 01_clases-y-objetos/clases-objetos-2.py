@@ -1,4 +1,4 @@
-"Para este ejemplo vemos una clase con atributos a asignar (atributos no predefinidos para todos los objetos a crear)"
+# Para este ejemplo vemos una clase con atributos a asignar (atributos no predefinidos para todos los objetos a crear)
 # También conocido como constructor
 
 class Celular:

@@ -19,11 +19,12 @@ celular2_camaraF = "24MP"
 celular3_camaraF = "8MP"
 
 print(celular2_camaraF)
+
+# Es tedioso mostrar un sistema de esta forma
 """
-"Es tedioso mostrar un sistema de esta forma"
 
 
-"Para este ejemplo vemos una clase con atributos éstaticos (atributos predefinidos para todos los objetos a crear)"
+# Para este ejemplo vemos una clase con atributos éstaticos (atributos predefinidos para todos los objetos a crear)
 
 class Celular():
     marca = "Samsung"
@@ -33,9 +34,9 @@ class Celular():
 celular_1 = Celular()
 
 print(celular_1) 
-"Me va a mostar que es un dato de tipo Object"
+# Me va a mostar que es un dato de tipo Object
 
 print(celular_1.marca)
 print(celular_1.modelo)
 print(celular_1.camara)
-"Acá si me va a mostrar las propiedades de este objeto en específico"
+# Acá si me va a mostrar las propiedades de este objeto en específico
