@@ -71,6 +71,7 @@ print("Murciélago:")
 murcielago.comer()
 murcielago.amamantar()
 murcielago.volar()
+print(Murcielago.mro())
 print("")
 
 ave = Ave()
